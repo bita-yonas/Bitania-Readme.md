@@ -1,4 +1,4 @@
-# Bitania-Readme.md
+Bitania/README.md
 ### Hey there 👋
 
 - 🎓 Rising junior studying Computing Science at St. Thomas Aquinas College
