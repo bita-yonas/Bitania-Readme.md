@@ -39,8 +39,6 @@
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
 ![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)
 
-## GitHub Stats
-![](https://github-readme-streak-stats.herokuapp.com/?user=justinhSE&theme=dark&hide_border=false)<br/>
 
 <div style="display: flex;" >
    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=justinhSE&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Bitania Yonas" /> 
