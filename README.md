@@ -1,13 +1,13 @@
-Bitania/README.md
 ### Hey there 👋
+
 
 - 🎓 Rising junior studying Computing Science at St. Thomas Aquinas College
 - 💻 Passionate about software development, AI, and game design
 - 🌱 Currently working on an AI project to recognize cancer lumps in diagnostic MRI scans
 - 🎮 Developer of "The Fallen Treasure" game
-- 🎯 Archery enthusiast and tennis player 
+- 🎯 Archery enthusiast and tennis player
 
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:byonas21@stac.edu)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:your-email@example.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/bitaniayonas/)
 
 ## Languages
@@ -33,4 +33,15 @@ Bitania/README.md
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 
-##​⬤
+## IDEs/Editors I use most often
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
+![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)
+
+## GitHub Stats
+![](https://github-readme-streak-stats.herokuapp.com/?user=justinhSE&theme=dark&hide_border=false)<br/>
+
+<div style="display: flex;" >
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=justinhSE&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Bitania Yonas" /> 
+</div>
