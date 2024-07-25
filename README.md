@@ -5,7 +5,6 @@
 - 💻 Passionate about software development, AI, and game design
 - 🌱 Currently working on an AI project to recognize cancer lumps in diagnostic MRI scans
 - 🎮 Developer of "The Fallen Treasure" game
-- 🎯 Archery enthusiast and tennis player
 
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:your-email@example.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/bitaniayonas/)
